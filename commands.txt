@@ -28,3 +28,6 @@ R_16: 'mkdir death_star/tie_fighter_1 death_star/tie_fighter_2 death_star/tie_fi
 R_17: 'mv death_star/darth_vader.txt death_star/tie_fighter_1/'.
 R_18: 'cp death_star/storm_trooper.txt death_star/tie_fighter_2/ && cp death_star/storm_trooper.txt death_star/tie_fighter_3/'.
 R_19: 'mv -t ./ death_star/tie_fighter_1/ death_star/tie_fighter_2/ death_star/tie_fighter_3/'.
+
+Part VII: rm -r: remove directories and everything they contain.
+R_20: 'rm -r tie_fighter_2/ tie_fighter_3'.
