@@ -8,3 +8,9 @@ R_4: 'mv tatooine/ben_kenobi.txt tatooine/obi_wan.txt'.
 
 Part III: cp- copy.
 R_5: 'cp death_star/storm_trooper.txt tatooine/'.
+
+Part IV: mv- move.
+R_6: 'mv -t tatooine/millenium_falcon/ tatooine/luke.txt tatooine/obi_wan.txt'.
+R_7: 'mv tatooine/millenium_falcon/ .'.
+R_8: 'mv millenium_falcon/ death_star/'.
+R_9: 'mv death_star/princess_leia.txt death_star/millenium_falcon/'.
