@@ -2,3 +2,6 @@ Part I: Set the Scene.
 R_1: 'mkdir death_star && touch death_star/darth_vader.txt death_star/princess_leia.txt death_star/storm_trooper.txt'.
 R_2: 'mkdir tatooine && touch tatooine/luke.txt tatooine/ben_kenobi.txt'.
 R_3: 'mkdir tatooine/millenium_falcon && touch tatooine/millenium_falcon/han_solo.txt tatooine/millenium_falcon/chewbaca.txt'.
+
+Part II: mv- rename.
+R_4: 'mv tatooine/ben_kenobi.txt tatooine/obi_wan.txt'.
