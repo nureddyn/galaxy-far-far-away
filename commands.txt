@@ -36,3 +36,5 @@ Part VIII.
 R_21: 'touch x_wing/the_force.txt'.
 R_22: 'rm -r death_star/'.
 R_23: 'mv -t yarvin_4/ x_wing/ millenium_falcon/'.
+
+Completed lab.
