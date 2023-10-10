@@ -31,3 +31,8 @@ R_19: 'mv -t ./ death_star/tie_fighter_1/ death_star/tie_fighter_2/ death_star/t
 
 Part VII: rm -r: remove directories and everything they contain.
 R_20: 'rm -r tie_fighter_2/ tie_fighter_3'.
+
+Part VIII.
+R_21: 'touch x_wing/the_force.txt'.
+R_22: 'rm -r death_star/'.
+R_23: 'mv -t yarvin_4/ x_wing/ millenium_falcon/'.
