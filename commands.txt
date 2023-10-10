@@ -17,3 +17,14 @@ R_9: 'mv death_star/princess_leia.txt death_star/millenium_falcon/'.
 
 Part V: rm- remove.
 R_10: 'death_star/millenium_falcon/obi_wan.txt'.
+
+Part VI: all together.
+R_11: 'mkdir yavin_4'.
+R_12: 'mv death_star/millenium_falcon/ yarvin_4/'.
+R_13: 'mkdir yarvin_4/x_wing'.
+R_14: 'mv yarvin_4/millenium_falcon/princess_leia.txt yarvin_4/ && mv yarvin_4/millenium_falcon/luke.txt yarvin_4/x_wing/'.
+R_15: 'mv -t ./ yarvin_4/millenium_falcon/ yarvin_4/x_wing/'.
+R_16: 'mkdir death_star/tie_fighter_1 death_star/tie_fighter_2 death_star/tie_fighter_3'.
+R_17: 'mv death_star/darth_vader.txt death_star/tie_fighter_1/'.
+R_18: 'cp death_star/storm_trooper.txt death_star/tie_fighter_2/ && cp death_star/storm_trooper.txt death_star/tie_fighter_3/'.
+R_19: 'mv -t ./ death_star/tie_fighter_1/ death_star/tie_fighter_2/ death_star/tie_fighter_3/'.
