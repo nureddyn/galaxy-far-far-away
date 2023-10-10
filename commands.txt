@@ -5,3 +5,6 @@ R_3: 'mkdir tatooine/millenium_falcon && touch tatooine/millenium_falcon/han_sol
 
 Part II: mv- rename.
 R_4: 'mv tatooine/ben_kenobi.txt tatooine/obi_wan.txt'.
+
+Part III: cp- copy.
+R_5: 'cp death_star/storm_trooper.txt tatooine/'.
